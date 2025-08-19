@@ -5,7 +5,7 @@ I’ve spent my [career](https://www.linkedin.com/in/hb399/) at the intersection
 Now, I’m combining those experiences to build software that helps **executive teams and investors** cut through noise and make better decisions. I’m starting with **[MarketBrief.ai](https://marketbrief.ai)** — AI-powered intelligence briefings, personalized and delivered in real time.
 
 ### 🛠️ Tech & Tools
-`Next.js` · `TypeScript` · `React` · `TailwindCSS` · `shadcn/ui` · `Supabase` · `Stripe` · `Vercel` · `OpenAI`
+`python` · `Next.js` · `TypeScript` · `React` · `TailwindCSS` · `shadcn/ui` · `Supabase` · `Stripe` · `Vercel` · `OpenAI`
 
 ---
 
