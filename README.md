@@ -6,7 +6,3 @@ Now, I’m combining those experiences to build software that helps **executive 
 
 ### 🛠️ Tech & Tools
 `python` · `Next.js` · `TypeScript` · `React` · `TailwindCSS` · `shadcn/ui` · `Supabase` · `Stripe` · `Vercel` · `OpenAI`
-
----
-
-![Hugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HughaBrown&show_icons=true&theme=default)
